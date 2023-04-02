@@ -1,0 +1,4 @@
+https://m valid
+http s://m invalid
+https://google.com valid
+https://@ invalid
